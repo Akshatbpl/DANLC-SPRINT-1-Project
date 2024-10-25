@@ -12,4 +12,4 @@ Through this analysis, we explore various aspects of food delivery, including pe
 delivery performance, and geographic trends. Our goal is to provide actionable insights that can help 
 improve service quality, increase customer engagement, and ultimately, drive business growth.
 
-This Project is made by Akshat Agrawal and Om Sonwane for DANLC sprint 1 project
+This Project is made by Akshat Agrawal and Om Sonwane for DANLC sprint 1 project.
